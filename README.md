@@ -11,4 +11,4 @@ UIをデザインするのが好きです。
 >[Scratch](https://scratch.mit.edu/users/1STEP621/)  
 >[HomePage](https://1step621.github.io/)  
 
-<img src="https://github-readme-stats.vercel.app/api?username=1STEP621&include_all_commits=true&show_icons=true&title_color=4e7682&icon_color=4e7682" alt="stats" height="204"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1STEP621&title_color=4e7682&card_width=495" alt="langs" height="204">
+<img src="https://github-readme-stats.vercel.app/api?username=1STEP621&include_all_commits=true&show_icons=true&title_color=4e7682&icon_color=4e7682" alt="stats" style="width: 50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1STEP621&title_color=4e7682&card_width=518" alt="langs" style="width: 50%">
