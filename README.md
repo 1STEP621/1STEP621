@@ -18,4 +18,4 @@ UIをデザインするのが好きです。
 ほか
 
 ## GitHub
-[<img src="https://github-readme-stats.vercel.app/api?username=1STEP621&include_all_commits=true&show_icons=true&title_color=4e7682&icon_color=4e7682" alt="stats" style="width: 50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1STEP621&title_color=4e7682&card_width=518" alt="langs" style="width: 50%">](https://1step621.github.io)
+[<img src="https://github-readme-stats.vercel.app/api?username=1STEP621&include_all_commits=true&show_icons=true&title_color=4e7682&icon_color=4e7682&disable_animations=true&border_radius=0" alt="stats" style="width: 50%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1STEP621&title_color=4e7682&card_width=518&border_radius=0" alt="langs" style="width: 50%;">](https://1step621.github.io)
